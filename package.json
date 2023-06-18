@@ -2,7 +2,7 @@
   "name": "wrand",
   "version": "1.2.0",
   "description": "Extract one or more random elements from a weighted array.",
-  "main": "index.js",
+  "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
     "build": "tsc",
